@@ -1,15 +1,16 @@
-id: opecha:P006960
+id: P006960
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1PD90031
   title: མའོ་ཝེན་ཆའང་རིགས་རང་སྐྱོང་རྫོང་གི་ལོ་རྒྱུས།
-  volume:
+  author: ''
+  volumes:
     24790df95b31470580a46ca4a24be08f:
       image_group_id: I1PD90106
       title: Volume 1 of mao wen qiang zu zi zhi xizn zhi
       volume_number: 1
       total_pages: 828
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: མའོ་ཝེན་ཆའང་རིགས་རང་སྐྱོང་རྫོང་གི་ལོ་རྒྱུས།
   author: ''
